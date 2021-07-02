@@ -1,2 +1,3 @@
 # js-repository-collection
-js 仓库收集
+
+github.com/fengyuanchen/cropper  (js图片裁剪)   
